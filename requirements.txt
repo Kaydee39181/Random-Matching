@@ -1,0 +1,2 @@
+# No third-party Python dependencies are required.
+# Target runtime: Python 3.12+
